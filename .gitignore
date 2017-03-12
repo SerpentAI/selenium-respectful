@@ -1,0 +1,11 @@
+.python-version
+.idea
+.cache
+
+__pycache__/
+*.py[cod]
+
+selenium-respectful.config.yml
+
+dist/
+selenium_respectful.egg-info/
