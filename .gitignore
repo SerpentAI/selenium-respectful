@@ -9,3 +9,7 @@ selenium-respectful.config.yml
 
 dist/
 selenium_respectful.egg-info/
+
+ghostdriver.log
+
+build/
